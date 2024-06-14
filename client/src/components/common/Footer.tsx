@@ -7,7 +7,7 @@ function Footer() {
                     href="https://github.com/jhaayushofficial/Co-Edit"
                     className="text-primary underline underline-offset-1"
                 >
-                    sahilatahar
+                    Ayush
                 </a>
             </span>
         </footer>
