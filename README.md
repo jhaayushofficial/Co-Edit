@@ -1,8 +1,8 @@
-# Code Sync - A Realtime Code Editor
+# Co-Edit - A Realtime Code Editor
 
-![Preview Image](./preview.png)
+<!-- ![Preview Image](./preview.png) -->
 
-Code Sync is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
+Co-Edit is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
 ## 🔮 Features
 
@@ -59,19 +59,3 @@ Code Sync is a collaborative, real-time code editor where users can seamlessly c
    ```bash
    http://localhost:5173/
    ```
-
-## 🔮 Features for next release
-
-- **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
-
-## 🤝 Contribute
-
-We welcome contributions to make Code Sync even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## 🌟 Support Us
-
-If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development. We appreciate your support!
-
-## 🧾 License
-
-This project is licensed under the [MIT License](LICENSE).
