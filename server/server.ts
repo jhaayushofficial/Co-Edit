@@ -2,8 +2,8 @@ import express, { Response, Request } from "express";
 import dotenv from "dotenv";
 import http from "http";
 import cors from "cors";
-import { MessageEvent, SocketId } from "./types/socket";
-import { USER_CONNECTION_STATUS, User } from "./types/user";
+import { MessageEvent, SocketId } from "./server/src/types/socket";
+import { USER_CONNECTION_STATUS, User } from "./server/src/types/user";
 import { Server, Socket } from "socket.io";
 import path from "path";
 
