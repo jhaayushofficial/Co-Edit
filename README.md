@@ -47,12 +47,12 @@ Co-Edit is a collaborative, real-time code editor where users can seamlessly cod
    Frontend:
    ```bash
    cd client
-   npm run dev
+   npm run start
    ```
    Backend:
    ```bash
    cd server
-   npm run dev
+   npm run start
    ```
 6. **Access the application:**
    Open a browser and enter the following URL:
